@@ -1,0 +1,16 @@
+body {
+    background-color: #f4f4f9;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card img {
+    border: 3px solid #007bff;
+}
